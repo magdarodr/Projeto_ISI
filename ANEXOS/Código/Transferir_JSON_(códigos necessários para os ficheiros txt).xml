@@ -1,0 +1,34 @@
+            /*  
+  private void buttonCarregarTxt1_Click(object sender, EventArgs e)
+  {
+      // ir buscar o caminho do ficheiro;
+
+      string caminho = @"C:\Users\joana\OneDrive - IPLeiria\projeto_ISI\ANEXOS\calorias_restaurantes_1.txt";
+
+      // carregar o conteúdo do ficheiro para uma string
+
+      List<Refeicao> refeicoes = new List<Refeicao>();
+
+
+      // parse da string
+
+      // split pelo \n
+
+      // em cada linha
+      //split pelo \t
+      // criar novo objecto do tipo refeicao
+      // adicionar refeicao a uma lista de refeicoes
+
+
+      // mostrar a lista de refeicoes numa textview
+
+      textBoxRes.Text = "";
+      foreach(Refeicao r in refeicoes)
+      {
+          textBoxRes.Text += r;
+      }
+
+
+  } */
+
+

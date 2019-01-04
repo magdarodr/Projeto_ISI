@@ -1,0 +1,27 @@
+//Converter em JSON
+
+            string caminho = @"C:\Users\joana\Desktop\ISI\ANEXOS";
+
+            // carregar o conteúdo do ficheiro para uma string
+
+            List<Refeicao> refeicoes = new List<Refeicao>();
+
+            // parse da string
+
+            // split pelo \n
+
+            // em cada linha
+            //split pelo \t
+            // criar novo objecto do tipo refeicao
+            // adicionar refeicao a uma lista de refeicoes
+
+
+            // mostrar a lista de refeicoes numa textview
+
+            textBoxRes.Text = "";
+            foreach (Refeicao r in refeicoes)
+            {
+                textBoxRes.Text += r;
+            }
+
+            

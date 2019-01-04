@@ -1,0 +1,14 @@
+//do Pessoa
+
+            /* private void button2_Click(object sender, EventArgs e)
+           {
+               List<Refeicao> refeicoes = new List<Refeicao>();
+
+               string maisrefeicoes = File.ReadAllText(@"C:\Users\Moreira\Documents\ISI\Projecto_ISI\calorias_restaurantes_3.json");
+
+               List<Refeicao> mais_refeicoes = JsonConvert.DeserializeObject<List<Refeicao>>(maisrefeicoes);
+
+               var text_ref = String.Join("\n", mais_refeicoes);
+               
+               richTextBox1.Text = text_ref;
+           } */

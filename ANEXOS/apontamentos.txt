@@ -1,0 +1,45 @@
+# links para páginas com a fórmula necessária para a Calculadora de Calorias e que contêm sugestões para o factor de actividade:
+	https://www.dummies.com/health/nutrition/how-to-calculate-your-metabolic-rate/
+	http://www.ucdenver.edu/research/CCTSI/programs-services/ctrc/Nutrition/Documents/Estimating%20Energy%20Expenditure.pdf
+
+# TabControl (componente visual que permite ter várias tabs na form)
+	https://www.c-sharpcorner.com/UploadFile/mahesh/C-Sharp-tabcontrol/
+	https://youtu.be/S-hDyMi4GFs
+
+# header para que o conteúdo devolvido seja json
+	Content-Type: application/json
+
+# How to: Parse Strings Using String.Split (C# Guide)
+	https://docs.microsoft.com/en-us/dotnet/csharp/how-to/parse-strings-using-split
+	
+	outro método que pode ser importante é o trim(), que elimina espaços em branco no início e fim da string:
+	https://docs.microsoft.com/en-us/dotnet/api/system.string.trim?view=netframework-4.7.2#System_String_Trim
+
+	exemplo: (podem experimentar colando no https://try.dot.net/)
+	
+	using System;
+	using System.Collections.Generic;
+	using System.Linq;
+
+	public class Program
+	{
+      public static void Main()
+      {
+        string phrase = "   isto | é|um |exemplo  |do | split|  e |  do  | trim ";
+        string[] words = phrase.Split('|');
+
+        foreach (var word in words)
+        {
+            string wordSemEspacosEmBranco = word.Trim();
+            System.Console.WriteLine(wordSemEspacosEmBranco); // imprime uma palavra por linha sem os espaços em branco
+        }
+      }
+	}
+
+
+
+
+
+AppHarbor
+User: magda1993
+Pass: cis_isi1819

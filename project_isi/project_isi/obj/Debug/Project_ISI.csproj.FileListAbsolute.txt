@@ -1,0 +1,11 @@
+C:\Users\joana\Desktop\Projet_ISI\Project_ISI\Project_ISI\bin\Debug\Project_ISI.exe.config
+C:\Users\joana\Desktop\Projet_ISI\Project_ISI\Project_ISI\bin\Debug\Project_ISI.exe
+C:\Users\joana\Desktop\Projet_ISI\Project_ISI\Project_ISI\bin\Debug\Project_ISI.pdb
+C:\Users\joana\Desktop\Projet_ISI\Project_ISI\Project_ISI\obj\Debug\Project_ISI.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\Projet_ISI\Project_ISI\Project_ISI\obj\Debug\Project_ISI.gestorInfoCal.resources
+C:\Users\joana\Desktop\Projet_ISI\Project_ISI\Project_ISI\obj\Debug\Project_ISI.inicio.resources
+C:\Users\joana\Desktop\Projet_ISI\Project_ISI\Project_ISI\obj\Debug\Project_ISI.Properties.Resources.resources
+C:\Users\joana\Desktop\Projet_ISI\Project_ISI\Project_ISI\obj\Debug\Project_ISI.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\Projet_ISI\Project_ISI\Project_ISI\obj\Debug\Project_ISI.csproj.CoreCompileInputs.cache
+C:\Users\joana\Desktop\Projet_ISI\Project_ISI\Project_ISI\obj\Debug\Project_ISI.exe
+C:\Users\joana\Desktop\Projet_ISI\Project_ISI\Project_ISI\obj\Debug\Project_ISI.pdb

@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\Projet_ISI\Web Service ISI\Web Service ISI\obj\Debug\Web Service ISI.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projet_ISI\Web Service ISI\Web Service ISI\obj\Debug\Web Service ISI.csproj.CoreCompileInputs.cache
+F:\Projet_ISI_0712\Web Service ISI\Web Service ISI\obj\Debug\Web Service ISI.csprojAssemblyReference.cache
+F:\Projet_ISI_0712\Web Service ISI\Web Service ISI\obj\Debug\Web Service ISI.csproj.CoreCompileInputs.cache
+C:\Users\5160288\Downloads\Projet_ISI_0712\Web Service ISI\Web Service ISI\bin\App_Data\refeicoes.xml
+C:\Users\5160288\Downloads\Projet_ISI_0712\Web Service ISI\Web Service ISI\bin\Web Service ISI.dll.config
+C:\Users\5160288\Downloads\Projet_ISI_0712\Web Service ISI\Web Service ISI\bin\Web Service ISI.dll
+C:\Users\5160288\Downloads\Projet_ISI_0712\Web Service ISI\Web Service ISI\bin\Web Service ISI.pdb
+C:\Users\5160288\Downloads\Projet_ISI_0712\Web Service ISI\Web Service ISI\obj\Debug\Web Service ISI.csprojAssemblyReference.cache
+C:\Users\5160288\Downloads\Projet_ISI_0712\Web Service ISI\Web Service ISI\obj\Debug\Web Service ISI.csproj.CoreCompileInputs.cache
+C:\Users\5160288\Downloads\Projet_ISI_0712\Web Service ISI\Web Service ISI\obj\Debug\Web Service ISI.dll
+C:\Users\5160288\Downloads\Projet_ISI_0712\Web Service ISI\Web Service ISI\obj\Debug\Web Service ISI.pdb

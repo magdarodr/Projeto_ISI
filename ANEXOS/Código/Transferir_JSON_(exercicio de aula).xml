@@ -1,0 +1,38 @@
+
+// transferir o código JSON 
+
+static void Main(string[] args)
+{
+    // create objects
+    Employee employee1 = new Employee("Francisco", new DateTime(1974, 12, 23), 1200.5);
+    Employee employee2 = new Employee("Fernando", new DateTime(1980, 11, 2), 1005);
+    Employee employee3 = new Employee("Krasimir", new DateTime(1991, 8, 5), 510.3);
+    Employee employee4 = new Employee("Hector", new DateTime(1999, 8, 12), 1530);
+    Employee employee5 = new Employee("Manuel", new DateTime(1984, 2, 15), 800.5);
+
+    // create list
+    List<Employee> employees = new List<Employee>();
+    employees.Add(employee1);
+    employees.Add(employee2);
+    employees.Add(employee3);
+    employees.Add(employee4);
+    employees.Add(employee5);
+    foreach (Employee employee in employees)
+    {
+        Console.WriteLine(employee);
+    }
+            
+    //ex. 4.a
+    string json = JsonConvert.SerializeObject(employee1, Formatting.Indented);
+    Console.WriteLine(json);
+
+    File.WriteAllText(@"employee.json", JsonConvert.SerializeObject(employee1));
+
+    using (StreamWriter file = File.CreateText(@"cemployee.json"))
+    {
+    JsonSerializer serializer = new JsonSerializer();
+    serializer.Serialize(file, employee1);
+    }
+
+    Console.ReadLine();
+}
